@@ -1,0 +1,2 @@
+x='giogay';
+disp(x);
